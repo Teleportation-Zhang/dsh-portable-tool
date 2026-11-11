@@ -1,0 +1,7 @@
+console/console-config.json
+data/
+program/
+backups/
+*.log
+*.tmp
+*.bak
